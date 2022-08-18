@@ -8,12 +8,12 @@ The SYPHER CHAT APP is a fully functional android app with which users can creat
 ---
 
 ## Screenshots
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Admin_Dashboard.jpeg)
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Doctor_Dashboard.jpeg)
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Patient_Dashboard.jpeg)
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/schedule_slot.jpeg)
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Booking_Appointment.jpeg)
-![Image of adduser](https://github.com/Chirag-S-7/E-Case-Management/blob/main/Screenshot/Invoice.jpeg)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide5.PNG)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide6.PNG)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide7.PNG)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide8.PNG)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide9.PNG)
+![Image of adduser](https://github.com/meet1709/SYPHER_CHAT_APP/blob/main/image/p/Slide10.PNG)
 
 
 
